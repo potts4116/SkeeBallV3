@@ -8,7 +8,7 @@ public class GrenadeThrow : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		GetComponent<>
+		//GetComponent<>
 	}
 	
 	// Update is called once per frame
